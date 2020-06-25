@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">F U</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="hello">Hello</string>
+    <string name="sign_in_with_email_password"><![CDATA[Sign-In with Email]]></string>
+    <string name="sign_in_with_google">Sign-In with Google</string>
+</resources>
